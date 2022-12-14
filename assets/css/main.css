@@ -2749,7 +2749,7 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("C:/Users/Olive/Downloads/Oluap/Website/images/BG.jpg");
+		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("BG.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
@@ -3066,7 +3066,7 @@ input, select, textarea {
 
 			#header {
 				background-attachment: scroll,							scroll,							scroll;
-				background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("C:/Users/Olive/Downloads/Oluap/Website/images/BG.jpg");
+				background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("BG.jpg");
 				background-size: 1600px 230px,					auto,							cover;
 				padding: 6em 0 12em 0;
 			}
@@ -3218,7 +3218,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-image: url("images/top-1280.svg"), url("images/overlay.png"), url("C:/Users/Olive/Downloads/Oluap/Website/images/BG.jpg");
+				background-image: url("images/top-1280.svg"), url("images/overlay.png"), url("BG.jpg");
 				background-size: 1280px 184px,						auto,							cover;
 				padding: 3em 0 7em 0;
 			}
